@@ -4,3 +4,6 @@ When deploying the site please make sure to wash your hands.
 
 Troubleshooting
 ---------------
+
+Content goes here
+
