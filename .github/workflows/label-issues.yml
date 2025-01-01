@@ -13,5 +13,5 @@ jobs:
       - name: Label issues
         uses: andymckay/labeler@1.0.2
         with:
-          added-labels: "triage"
+          add-labels: "triage"
           repo-token: ${{ secrets.GITHUB_TOKEN }}
